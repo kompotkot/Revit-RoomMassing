@@ -1,4 +1,4 @@
-# Script for Room Massing in Revit
+# Room Massing script in Revit
 
 Script generate forms from room boundaries and load it in model by families.
 
